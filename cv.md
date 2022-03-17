@@ -1,7 +1,9 @@
-
-## **Soroko Andrey** !(фото)[https://raw.githubusercontent.com/AndreySo1/And-rs/master/CV200.jpg]
+![foto](https://raw.githubusercontent.com/AndreySo1/And-rs/master/CV120.png "info")
+# **Soroko Andrey** 
 #### Junior Frontend Developer
+
 ---
+
 ### **Contact information:**
 #### **Location:** Poland, Wroclaw
 #### **Phone:** +375 29 1626319
@@ -11,7 +13,7 @@
 ---
 
 ## About me
-#### Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+#### Experience in software testing and project support for PHP/JS, have a technical education
 
 ---
 
