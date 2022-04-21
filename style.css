@@ -57,6 +57,9 @@ display: inline-block;
 margin-top: 7%;
 margin-left: 9%;
 }
+.name-contact a{
+    color: #404041;
+}
 
 .name span{
     display: inline-block;
@@ -110,8 +113,12 @@ p,li{
     font: normal 14px 'Mukta', sans-serif;
 }
 
+.education a{
+    color: #fff;
+    font: normal 14px 'Mukta', sans-serif;
+}
 .education p:last-child{
-    margin-top: 71%;
+    margin-top: 50%;
     text-transform: none;
 }
 .four{
