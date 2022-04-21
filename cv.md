@@ -1,14 +1,14 @@
 ![foto](https://raw.githubusercontent.com/AndreySo1/And-rs/master/CV120.png "info")
-# **Soroko Andrey** 
-#### Junior Frontend Developer
+# **Andrey Soroko** 
+#### QA Engineer / Junior Frontend Developer
 
 ---
 
 ### **Contact information:**
 #### **Location:** Poland, Wroclaw
-#### **Phone:** +375 29 1626319
+#### **Phone:** +48 536 159 006
 #### **E-mail:** andreyso88@gmail.com
-#### **LinkedIn:** [Soroko Andrey](https://www.linkedin.com/in/soroko-andrey88/)
+#### **LinkedIn:** [Andrey Soroko](https://www.linkedin.com/in/soroko-andrey88/)
 
 ---
 
@@ -18,7 +18,8 @@
 ---
 
 ## Skils
-- HTML/CSS
+- QA
+- HTML/CSS/SCSS
 - JS
 - SQL
 - PHP
