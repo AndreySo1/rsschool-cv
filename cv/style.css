@@ -117,7 +117,8 @@ p,li{
     font: normal 14px 'Mukta', sans-serif;
 }
 .education p:last-child{
-    margin-top: 49.5%;
+    /* margin-top: 49.5%; */
+    padding-top: 45%;
     text-transform: none;
 }
 .four{
