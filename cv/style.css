@@ -12,7 +12,6 @@ flex-wrap: wrap;
 align-content: flex-start;
 width: 850px;
 margin: auto;
-margin-bottom: 3%;
 }
 
 .block-left{
@@ -118,7 +117,7 @@ p,li{
     font: normal 14px 'Mukta', sans-serif;
 }
 .education p:last-child{
-    margin-top: 50%;
+    margin-top: 49.5%;
     text-transform: none;
 }
 .four{
